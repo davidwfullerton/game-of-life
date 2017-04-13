@@ -1,2 +1,2 @@
 # game-of-life
-A solution to Conway's Game of Life
+WIP, delayed due to other priorities: A solution to Conway's Game of Life
